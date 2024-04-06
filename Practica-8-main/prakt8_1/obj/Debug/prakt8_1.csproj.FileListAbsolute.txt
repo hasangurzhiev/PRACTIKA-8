@@ -1,0 +1,14 @@
+D:\IS-22\prakt8_1\bin\Debug\prakt8_1.exe.config
+D:\IS-22\prakt8_1\bin\Debug\prakt8_1.exe
+D:\IS-22\prakt8_1\bin\Debug\prakt8_1.pdb
+D:\IS-22\prakt8_1\obj\Debug\prakt8_1.csproj.AssemblyReference.cache
+D:\IS-22\prakt8_1\obj\Debug\prakt8_1.csproj.CoreCompileInputs.cache
+D:\IS-22\prakt8_1\obj\Debug\prakt8_1.exe
+D:\IS-22\prakt8_1\obj\Debug\prakt8_1.pdb
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\bin\Debug\prakt8_1.exe.config
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\bin\Debug\prakt8_1.exe
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\bin\Debug\prakt8_1.pdb
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\obj\Debug\prakt8_1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\obj\Debug\prakt8_1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\obj\Debug\prakt8_1.exe
+C:\Users\1\Desktop\Practica-8-main\prakt8_1\obj\Debug\prakt8_1.pdb
